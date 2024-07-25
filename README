@@ -8,6 +8,9 @@ Country
 /data?country=RU
 /data?country=RU;CN
 
+Both
+/data?country=RU&asn=44477
+
 Output Data
 /data?asn=44477&output=csv
 /data?asn=44477&output=txt
